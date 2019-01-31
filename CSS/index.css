@@ -93,7 +93,6 @@
 body {
   box-sizing: border-box;
   min-width: 300px;
-  margin: 0;
 }
 .header-container {
   width: 100%;
@@ -124,3 +123,4 @@ body {
   padding-bottom: 10px;
   font-weight: bold;
 }
+/*# sourceMappingURL=index.css.map */
