@@ -9,7 +9,7 @@ class Tabs {
                 Tabs.selectedLink = tabLink;
             }
         } );
-        Tabs.selectedLink = this.tabLinks[ 0 ];
+        
         
     };
     
